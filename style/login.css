@@ -1,0 +1,23 @@
+.body-contain{
+	width: 75%;
+	height: 70vh;
+	overflow: hidden;
+}
+.img{
+	width: 100%;
+	height: 80vh;
+	object-fit: cover;
+}
+
+.upload{
+	border-style: dashed !important;
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+.image-preview{
+	height: 100%;
+	width: 100%;
+	object-fit: contain;
+	object-position: center;
+}
